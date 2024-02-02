@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "12614A4C-7CF0-4560-AFAC-870289FBBE48"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D43FAD91-EF7F-4143-8F96-A1EB23BB25E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LiveCameraSwiftUi/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D43FAD91-EF7F-4143-8F96-A1EB23BB25E7 - 191af95a0069e2cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in LiveCameraSwiftUi.ContentView.body.getter : some"
+                  moduleName = "LiveCameraSwiftUi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/test/LiveCameraSwiftUi/LiveCameraSwiftUi/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  uuid = "D43FAD91-EF7F-4143-8F96-A1EB23BB25E7 - 25124d054c551287"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in LiveCameraSwiftUi.ContentView.body.getter : some"
+                  moduleName = "LiveCameraSwiftUi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/test/LiveCameraSwiftUi/LiveCameraSwiftUi/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "D43FAD91-EF7F-4143-8F96-A1EB23BB25E7 - 25124d054c5512a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of LiveCameraSwiftUi.ContentView.vitalSignView(name: Swift.String, icon: Swift.String, value: Swift.String, color: SwiftUI.Color) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in LiveCameraSwiftUi.ContentView.body.getter : some"
+                  moduleName = "LiveCameraSwiftUi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini/Documents/test/LiveCameraSwiftUi/LiveCameraSwiftUi/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "620">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94FB66F0-0279-4876-BE1E-1EDC9613DAE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LiveCameraSwiftUi/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

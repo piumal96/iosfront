@@ -16,6 +16,9 @@
 		9A843E472B6540C900140769 /* LiveCameraSwiftUiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A843E462B6540C900140769 /* LiveCameraSwiftUiUITestsLaunchTests.swift */; };
 		9A843E542B65415E00140769 /* FrameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A843E532B65415E00140769 /* FrameView.swift */; };
 		9A843E562B65435000140769 /* FrameHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A843E552B65435000140769 /* FrameHandler.swift */; };
+		9A8938942B6CF701005E8AB0 /* BeActiveTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8938932B6CF701005E8AB0 /* BeActiveTabView.swift */; };
+		9A8938962B6CF862005E8AB0 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8938952B6CF862005E8AB0 /* HomeView.swift */; };
+		9A8938982B6CF9E3005E8AB0 /* ActivityCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A8938972B6CF9E3005E8AB0 /* ActivityCard.swift */; };
 		9AB54CD72B668CB200AC3AB6 /* ObjectDetectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB54CD52B668CB200AC3AB6 /* ObjectDetectionVC.swift */; };
 		9AB54CD82B668CB200AC3AB6 /* DetectionCanvas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB54CD62B668CB200AC3AB6 /* DetectionCanvas.swift */; };
 /* End PBXBuildFile section */
@@ -52,6 +55,9 @@
 		9A843E532B65415E00140769 /* FrameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameView.swift; sourceTree = "<group>"; };
 		9A843E552B65435000140769 /* FrameHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameHandler.swift; sourceTree = "<group>"; };
 		9A843E572B654F1E00140769 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		9A8938932B6CF701005E8AB0 /* BeActiveTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeActiveTabView.swift; sourceTree = "<group>"; };
+		9A8938952B6CF862005E8AB0 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		9A8938972B6CF9E3005E8AB0 /* ActivityCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityCard.swift; sourceTree = "<group>"; };
 		9AB54CD52B668CB200AC3AB6 /* ObjectDetectionVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectDetectionVC.swift; sourceTree = "<group>"; };
 		9AB54CD62B668CB200AC3AB6 /* DetectionCanvas.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetectionCanvas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -106,7 +112,9 @@
 			children = (
 				9A843E572B654F1E00140769 /* Info.plist */,
 				9AB54CD62B668CB200AC3AB6 /* DetectionCanvas.swift */,
+				9A8938972B6CF9E3005E8AB0 /* ActivityCard.swift */,
 				9AB54CD52B668CB200AC3AB6 /* ObjectDetectionVC.swift */,
+				9A8938952B6CF862005E8AB0 /* HomeView.swift */,
 				9A843E282B6540C600140769 /* LiveCameraSwiftUiApp.swift */,
 				9A843E2A2B6540C600140769 /* ContentView.swift */,
 				9A843E2C2B6540C900140769 /* Assets.xcassets */,
@@ -114,6 +122,7 @@
 				9A843E2F2B6540C900140769 /* Preview Content */,
 				9A843E532B65415E00140769 /* FrameView.swift */,
 				9A843E552B65435000140769 /* FrameHandler.swift */,
+				9A8938932B6CF701005E8AB0 /* BeActiveTabView.swift */,
 			);
 			path = LiveCameraSwiftUi;
 			sourceTree = "<group>";
@@ -275,8 +284,11 @@
 			files = (
 				9AB54CD72B668CB200AC3AB6 /* ObjectDetectionVC.swift in Sources */,
 				9AB54CD82B668CB200AC3AB6 /* DetectionCanvas.swift in Sources */,
+				9A8938982B6CF9E3005E8AB0 /* ActivityCard.swift in Sources */,
+				9A8938942B6CF701005E8AB0 /* BeActiveTabView.swift in Sources */,
 				9A843E542B65415E00140769 /* FrameView.swift in Sources */,
 				9A843E2B2B6540C600140769 /* ContentView.swift in Sources */,
+				9A8938962B6CF862005E8AB0 /* HomeView.swift in Sources */,
 				9A843E562B65435000140769 /* FrameHandler.swift in Sources */,
 				9A843E292B6540C600140769 /* LiveCameraSwiftUiApp.swift in Sources */,
 			);

@@ -88,7 +88,6 @@ class ObjectDetectionVC: UIViewController, AVCaptureVideoDataOutputSampleBufferD
             prevLayer.backgroundColor = UIColor.black.cgColor
             prevLayer.frame.size = self.cameraView?.frame.size ?? .zero
             prevLayer.videoGravity = AVLayerVideoGravity.resizeAspect
-
             self.cameraView?.layer.addSublayer(prevLayer)
             self.prevLayer = prevLayer
 

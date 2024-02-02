@@ -14,3 +14,7 @@ struct LiveCameraSwiftUiApp: App {
         }
     }
 }
+
+#Preview {
+    ContentView()
+}

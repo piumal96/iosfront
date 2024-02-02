@@ -11,8 +11,6 @@ class FrameHandler: NSObject, ObservableObject {
     private let captureSession = AVCaptureSession()
     private let sessionQueue = DispatchQueue(label: "sessionQueue")
     private let context = CIContext()
-
-    
     override init() {
         super.init()
         self.checkPermission()
